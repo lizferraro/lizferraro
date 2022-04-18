@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lizferraro
-- 🌱 I’m new to the craft of coding and am currently learning the basics.
-- 📫 Drop me a line at elizabeth.k.ferraro@gmail.com or check out my portfolio at lizferraro.tech (coming soon)
+- 🌱 I’m new to the craft of coding and am currently learning HTML, CSS, and JavaScript.
 
 <!---
 lizferraro/lizferraro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
