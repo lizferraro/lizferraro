@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lizferraro!
-- 🌱 I have experience in developing websites using Wordpress, basic HTML, and basic CSS, and I am currently studying to become a fullstack developer with a focus on Mongo DB, Express.js, React, and Node.js. 
-- 🤓 As a lifelong learner, I look forward to later expanding into additional languages and tools! I am interested in building dynamic websites, software solutions, mobile applications, and maybe even a game or two. 
+- 🌱 I have experience in developing websites using HTML and CSS, and I am currently studying to become a fullstack software engineer.
+- 🤓 As a lifelong learner, I love exploring new technology and languages. I am interested in building dynamic websites, software solutions, mobile applications, and maybe even a game or two. 
 - 🌍 Feel free to reach out at elizabeth.k.ferraro@gmail.com. 
 
 <!---
