@@ -2,7 +2,7 @@
 
 ## 🌱 I am a programmer interested in building dynamic websites, software solutions, and mobile applications.
 
-## 👩🏼‍💼 I enjoy working with JavaScript, Python, and C#.
+## 👩🏼‍💼 I am currently learning JavaScript and Python.
 
 <!---
 lizferraro/lizferraro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
